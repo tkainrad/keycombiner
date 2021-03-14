@@ -9,7 +9,7 @@
 **Bug and issue tracker**
 
 
-If you encountered a bug or have a feature request, please create [create an issue](https://github.com/tkainrad/keycombiner/issues/new).
+If you encountered a bug or have a feature request, please create [create an issue](https://github.com/tkainrad/keycombiner/issues/new). If you have a general question, you can contact us [via mail](mailto:support@keycombiner.com) or use [GitHub Discussions](https://github.com/tkainrad/keycombiner/discussions). 
 </div>
 
 * [All issues](https://github.com/tkainrad/keycombiner/issues)
