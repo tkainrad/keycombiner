@@ -4,13 +4,15 @@
 
 ### An app to organize, learn, and practice keyboard shortcuts!
 
+</div>
  
 
-**Bug and issue tracker**
+**This repository serves as a public bug and request tracker.**
 
 
 If you encountered a bug or have a feature request, please create [create an issue](https://github.com/tkainrad/keycombiner/issues/new). If you have a general question, you can contact us [via mail](mailto:support@keycombiner.com) or use [GitHub Discussions](https://github.com/tkainrad/keycombiner/discussions). 
-</div>
+
+Either way, we will quickly get back to you.
 
 * [All issues](https://github.com/tkainrad/keycombiner/issues)
 * [Project board showing issue states](https://github.com/tkainrad/keycombiner/projects/1)
