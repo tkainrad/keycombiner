@@ -1,12 +1,13 @@
 <div align="center">
 
-# [![logo](https://user-images.githubusercontent.com/7394822/111075774-d0c8d080-84e9-11eb-96e5-e4db3a166d9c.png)<br/><br/>KeyCombiner](https://keycombiner.com)
+# [![logo](https://user-images.githubusercontent.com/7394822/111076062-0d48fc00-84eb-11eb-9c18-a2abf316ad2c.png)<br/><br/>KeyCombiner](https://keycombiner.com)
 
 ### An app to organize, learn, and practice keyboard shortcuts!
 
  
 
 **Bug and issue tracker**
+
 
 If you encountered a bug or have a feature request, please create [create an issue](https://github.com/tkainrad/keycombiner/issues/new).
 </div>
