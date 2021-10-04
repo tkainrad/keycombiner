@@ -9,9 +9,11 @@
 
 **This repository serves as a public bug and request tracker, and as a Wiki for advanced users.**
 
-It contains all user-requested features and all user-submitted bug reports. Internal issues are not necessarily included.
+It contains all user-requested features and all user-submitted bug reports. Issues that were not raised by users are not necessarily included.
 
-If you encountered a bug or have a feature request, please create [create an issue](https://github.com/tkainrad/keycombiner/issues/new). If you have a general question, you can contact us [via mail](mailto:support@keycombiner.com) or use [GitHub Discussions](https://github.com/tkainrad/keycombiner/discussions). 
+If you encountered a bug or have a feature request, please create [create an issue](https://github.com/tkainrad/keycombiner/issues/new). Please consider also upvoting existing issues by adding a thumbs-up emoji or sharing your perspective in a comment.
+
+If you have a general question, you can contact us [via mail](mailto:support@keycombiner.com) or use [GitHub Discussions](https://github.com/tkainrad/keycombiner/discussions). 
 
 Either way, we will quickly get back to you.
 
