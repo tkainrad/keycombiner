@@ -11,7 +11,7 @@
 
 It contains all user-requested features and all user-submitted bug reports. Issues that were not raised by users are not necessarily included.
 
-If you encountered a bug or have a feature request, please [create an issue](https://github.com/tkainrad/keycombiner/issues/new). Please consider also upvoting existing issues by adding a thumbs-up emoji or sharing your perspective in a comment.
+If you encountered a bug or have a feature request, please [create an issue](https://github.com/tkainrad/keycombiner/issues/new). Please also consider upvoting existing issues by adding a thumbs-up emoji or sharing your perspective in a comment.
 
 If you have a general question, you can contact us [via mail](mailto:support@keycombiner.com) or use [GitHub Discussions](https://github.com/tkainrad/keycombiner/discussions). 
 
